@@ -1,4 +1,4 @@
-Name: Fong Man Hinww
+Name: Fong Man Hin
 
 ID: 20624888
 
